@@ -1,2 +1,2 @@
 # RPN-Calculator
-- A simple implementation of an RPN calculator
+- A simple implementation of the RPN calculator
